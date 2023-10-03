@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Dan</h1>
 <h3 align="center">I'm an aspiring data scientist and python developer based in London, UK!</h3>
 
-- 🌱 I’m currently learning **Machine Learning, causal networks and general back-end development**
+- 🌱 I’m currently learning machine learning, causal networks and general back-end development
 
 - 📫 How to reach me **daniel_visser95@outlook.com**
 
