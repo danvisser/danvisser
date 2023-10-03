@@ -7,7 +7,7 @@
 
 - 📄 [Know about my experiences](https://github.com/danvisser/CV/blob/main/Daniel%20Visser%20-%20CV.pdf)
 
-- ## Podcasts I Love
+## Podcasts I Love
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [Quanta Science Podcast](https://www.quantamagazine.org/tag/quanta-podcast/)
