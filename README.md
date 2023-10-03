@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dan</h1>
+<h1 align="center">Hi, I'm Dan</h1>
 <h3 align="center">I'm an aspiring data scientist and python developer based in London, UK!</h3>
 
 - 🌱 I’m currently learning **Machine Learning, causal networks and general back-end development**
@@ -11,7 +11,7 @@
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
 - [Quanta Science Podcast](https://www.quantamagazine.org/tag/quanta-podcast/)
-- [Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp))
+- [Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
 - [Software Engineering Daily](https://example.com/sedaily)
 - [The Anthropocene Reviewed](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
 
