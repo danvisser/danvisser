@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **daniel_visser95@outlook.com**
 
-- 📄 Know about my experiences [https://github.com/danvisser/CV/blob/main/Daniel%20Visser%20-%20CV.pdf](https://github.com/danvisser/CV/blob/main/Daniel%20Visser%20-%20CV.pdf)
+- 📄 [Know about my experiences](https://github.com/danvisser/CV/blob/main/Daniel%20Visser%20-%20CV.pdf)
 
 - ## Podcasts I Love
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
