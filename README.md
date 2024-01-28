@@ -12,7 +12,6 @@
 - [Machine Learning Street Talk](https://open.spotify.com/show/02e6PZeIOdpmBGT9THuzwR)
 - [Quanta Science Podcast](https://www.quantamagazine.org/tag/quanta-podcast/)
 - [Practical AI](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
-- [Software Engineering Daily](https://example.com/sedaily)
 - [The Anthropocene Reviewed](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
 
 ## Books I Love
