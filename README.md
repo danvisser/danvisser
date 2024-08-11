@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I'm Dan</h1>
 
-- 🌱 I’m currently learning about full-stack development.
+- 🌱 I’m currently learning full-stack development.
 
 - 📫 How to reach me: **daniel_visser95@outlook.com**
 
