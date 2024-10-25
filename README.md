@@ -1,10 +1,10 @@
 <h1 align="center">Hi, I'm Dan</h1>
 
-- 🌱 I’m currently learning full-stack development.
+- 🌱 Building full-stack projects and experimenting with agents.
 
 - 📫 How to reach me: **daniel_visser95@outlook.com**
 
-- 📄 Know about my experiences: [CV](https://github.com/danvisser/CV/blob/main/Daniel%20Visser%20-%20CV.pdf)
+- 📄 More about my experience: [CV](https://github.com/danvisser/CV/blob/main/CV%20-%20Daniel%20Visser.pdf)
 
 ## Podcasts I Love
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
