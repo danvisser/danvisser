@@ -12,7 +12,7 @@
 - [Quanta Science Podcast](https://www.quantamagazine.org/tag/quanta-podcast/)
 - [The Anthropocene Reviewed](https://open.spotify.com/show/1LaCr5TFAgYPK5qHjP3XDp)
 - [Lex Fridman Podcast](https://lexfridman.com/podcast/)
-- 
+  
 ## Books I Love
 - [The Beginning of Infinity: Explanations That Transform the World]([https://jamesclear.com/atomic-habits](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity))
 - [21 Lessons for the 21st Centurry](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century)
