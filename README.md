@@ -15,8 +15,8 @@
   
 ## Books I Love
 - [The Beginning of Infinity: Explanations That Transform the World](https://www.goodreads.com/book/show/10483171-the-beginning-of-infinity)
+- [Artificial Intelligence: A Guide for Thinking Humans]([https://www.goodreads.com/en/book/show/60965426](https://www.goodreads.com/book/show/43565360-artificial-intelligence)
 - [21 Lessons for the 21st Centurry](https://www.goodreads.com/book/show/38820046-21-lessons-for-the-21st-century)
-- [The Creative Act](https://www.goodreads.com/en/book/show/60965426)
 - [On Writing](https://www.goodreads.com/book/show/10569.On_Writing)
 - [Just Kids](https://www.goodreads.com/en/book/show/341879)
 
