@@ -1,7 +1,5 @@
 <h1 align="center">Hi, I'm Dan</h1>
 
-- 🌱 Building full-stack projects and experimenting with agents.
-
 - 📫 How to reach me: **daniel_visser95@outlook.com**
 
 ## Books I Love
