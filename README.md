@@ -14,4 +14,3 @@
 - [Mindscape](https://www.preposterousuniverse.com/podcast/)
 - [Quanta Science Podcast](https://www.quantamagazine.org/tag/quanta-podcast/)
 - [The Anthropocene Reviewed](https://open.spotify.com/show/3scirzcuaGm02MQ4FUZydq?si=bd7516d543e04655)
-- [Lex Fridman Podcast](https://lexfridman.com/podcast/)
